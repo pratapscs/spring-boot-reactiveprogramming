@@ -11,3 +11,7 @@
 ![](src/main/resources/images/springcloud5.png)
 
 ![](src/main/resources/images/springcloud6.png)
+
+![](src/main/resources/images/springcloud7.png)
+
+![](src/main/resources/images/springcloud8.png)
