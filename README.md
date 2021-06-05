@@ -1,3 +1,3 @@
 # spring-boot-reactiveprogramming
 
-![](images/springcloud1.png)
+![](src/main/resources/images/springcloud1.png)
